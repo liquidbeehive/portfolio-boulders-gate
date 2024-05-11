@@ -1,0 +1,60 @@
+
+.pageHeader{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: #856D8D 1px solid;
+    background-color: rgb(255, 255, 255);
+    margin-top: .5rem;
+
+}
+.homeIcon{
+    margin: .5rem;
+
+}
+.headerLink{
+    color: #856D8D;
+    text-decoration: none;
+    margin: 2%;
+}
+.headerLinkContainer{
+    min-width:18rem;
+    margin: 0.5%;
+    margin-bottom: 1rem;
+}
+h1{
+    text-align: center;
+}
+.textBox{
+    margin: 3vw 20vw;
+    h2{
+        margin-top: 3vw;
+    }
+}
+.photo{
+    /* size: 40%; */
+    width:60vw;
+}
+.photoRow{
+    display: flex;
+    justify-content: space-around;
+
+}
+.photos{
+    display: flex;
+    text-align:center;
+}
+.header{
+    size: 50px;
+}
+.metricTitle{
+    display: flex;
+    background-color: #856D8D;
+    justify-content: center;
+    h1{
+        color: #ffffff;
+    }
+}
+.pageFooter{
+    margin: 10rem;
+}
